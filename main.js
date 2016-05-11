@@ -22,7 +22,7 @@ function labelStyle(locationX, locationY,fontSize,color,rotateAngle){
 
 
 //把一個一個物件依據對應背景圖片的屬性建立起來
-var labelStyle0 = new labelStyle("500px","590px","80px","gray",10);
+var labelStyle0 = new labelStyle("400px","500px","80px","gray",10);
 var labelStyle1 = new labelStyle("550px","550px","100px","red",13);
 var labelStyle2 = new labelStyle("370px","620px","160px","brown",358);
 var labelStyle3 = new labelStyle("400px","500px","180px","green",2);
